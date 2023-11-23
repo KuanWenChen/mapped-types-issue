@@ -11,9 +11,10 @@
   "license": "ISC",
   "dependencies": {
     "-": "^0.0.1",
-    "@nestjs/mapped-types": "^2.0.2",
+    "@nestjs/swagger": "^7.1.16",
     "@types/node": "^20.8.10",
     "class-transformer": "^0.5.1",
+    "class-validator": "^0.14.0",
     "save-dev": "^0.0.1-security",
     "typescript": "^5.2.2"
   },
